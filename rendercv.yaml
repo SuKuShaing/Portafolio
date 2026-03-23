@@ -1,0 +1,93 @@
+# Info para el CV en https://rendercv.com/
+cv:
+  name: Sebastián Sanhueza Tapia
+  headline: Actualmente Frontend Developer y estudiando para ser un Full Stack Developer
+  location: Santiago, Chile
+  email: sebastian.sanhueza.t@usach.cl
+  phone: ""
+  website: https://sanhueza.pro/
+  sections:
+    sobre_mi:
+      - Durante la universidad emprendí con la fabricación de impresoras 3D,
+        dirigiendo el equipo Print3x.cl por 9 años. Después decidí estudiar y
+        durante los últimos 5 años he estado trabajando y estudiado
+        programación.
+    experiencia_laboral:
+      - company: Utem
+        position: SEO
+        start_date: 2025-09
+        end_date: 2026-02
+        highlights:
+          - Realicé estudio de palabras clave y colabore en la implementación de
+            mejoras SEO.
+      - company: Eventos L&G
+        position: Administración de anuncios en Meta
+        start_date: 2024-06
+        end_date: 2026-02
+        highlights:
+          - Responsable de la gestión y administración de anuncios en Meta.
+      - company: TastyFree
+        position: Administración de anuncios en Meta y SEO
+        start_date: 2024-01
+        end_date: 2024-12
+        highlights:
+          - Migración de WordPress a Shopify y mejora de copy para SEO.
+          - Administración de anuncios en Meta.
+      - company: Centro Médico Arlo
+        position: Administración, Finanzas
+        start_date: 2022-03
+        end_date: 2023-12
+        highlights:
+          - Automatización de procesos administrativos con Google Sheets y Apps
+            Script.
+      - company: Print3x
+        position: Fundador, Vendedor
+        start_date: 2013-04
+        end_date: 2021-12
+        highlights:
+          - Desarrollo de impresoras 3D, gestión de fondos, marketing y ventas.
+    educacion:
+      - institution: Educación Online
+        area: Platzi, Midudev, Fernando Herrera, y cientos de youtubers
+        degree:
+        start_date: 2021-06
+        end_date:
+      - institution: Waterloo University
+        area: Summer Entrepreneurship Program
+        date:
+        start_date: 2018-06
+        end_date: 2018-07
+      - institution: Stanford University
+        area: Summer BootCamp Five Disciplines of Innovation
+        date:
+        start_date: 2016-02
+        end_date: 2016-03
+      - institution: Universidad de Santiago de Chile
+        area: Ingeniería Química
+        start_date: 2011-03
+        end_date: 2020-01
+    proyectos:
+      - name: "[Batería al 100](https://sukushaing.github.io/Bateria-al-100/)"
+        summary: Herramienta para optimización de carga de batería. -
+          [GitHub](https://github.com/SuKuShaing/Bateria-al-100)
+        highlights: []
+      - name: "[Simple
+          Timer](https://chromewebstore.google.com/detail/simple-timer/fepcghie\
+          dlojkgidicokpnhifnfbmabe)"
+        summary: Extensión de Chrome para time blocking. -
+          [GitHub](https://github.com/SuKuShaing/Extension-Simple-Timer)
+      - name: "[Lightboard](https://lightboard.cl/)"
+        summary: Página de ventas construida con Astro.  -
+          [GitHub](https://github.com/SuKuShaing/repo-lightboard)
+    habilidades:
+      - label: Lenguajes y Frameworks
+        details: HTML, CSS, JavaScript, Tailwind, TypeScript, Astro, Node, Python,
+          React, React Native
+      - label: Herramientas
+        details: Git, GitHub, MySQL, Figma
+  social_networks:
+    - network: GitHub
+      username: github.com/SuKuShaing
+    - network: LinkedIn
+      username: linkedin.com/in/sebastiansanhuezatapia
+  custom_connections: []
