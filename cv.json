@@ -1,66 +1,88 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
-    "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "name": "Sebastián Sanhueza Tapia",
+    "label": "Actualmente Frontend Developer y estudiando para ser un Full Stack Developer",
+    "image": "/Seba_Portafolio.webp",
+    "email": "sebastian.snahueza.t@usach.cl",
+    "phone": "+569 9464 0782",
+    "url": "https://sanhueza.pro",
+    "summary": "Durante la universidad emprendí con la fabricación de impresoras 3D, 9 años dirigiendo el equipo Print3x.cl. Después decidí estudiar programación y durante los últimos 5 años he trabajado y estudiado.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "postalCode": "",
+      "city": "Santiago",
+      "countryCode": "CL",
+      "region": "Chile"
     },
     "profiles": [
       {
         "network": "LinkedIn",
         "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "url": "https://www.linkedin.com/in/sebastiansanhuezatapia/"
       },
       {
         "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "SebaSanhueTapia",
+        "url": "https://x.com/SebaSanhueTapia"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "SuKuShaing",
+        "url": "https://github.com/SuKuShaing"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
-      "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "name": "Utem",
+      "position": "SEO",
+      "url": "https://www.utem.cl/",
+      "startDate": "2025-09-19",
+      "endDate": "2026-02-10",
+      "summary": "Les hice todo el estudio de palabras clave para su nuevo sitio web, y trabajé en con el desarrollador para que se implementara de muy buena forma las practicas SEO para el nuevo sitio web de la Utem que será lanzado en Julio de este año 2026.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "name": "Eventos L&G",
+      "position": "Administración de anuncios en Meta",
+      "url": "https://eventoslg.cl/",
+      "startDate": "2024-06-09",
+      "endDate": "2026-02-15",
+      "summary": "Llevaba la administración de los anuncios en Meta.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "name": "TastyFree",
+      "position": "Administración de anuncios en Meta y SEO",
+      "url": "https://tastyfree.cl/",
+      "startDate": "2024-01-10",
+      "endDate": "2024-12-14",
+      "summary": "En TastyFree migré la web de wordpress a shopify, hice mejoras al copy de los productos para que tuvieran un mejor posicionamiento SEO y además le llevaba la administración de los anuncios en Meta.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Centro Medico Arlo",
+      "position": "Administración, Finanzas",
+      "startDate": "2022-03-20",
+      "endDate": "2023-12-15",
+      "summary": "Entre a este centro medico a reparar unos Excel, me quedé al mejorar el sistema de información, unificando todas sus hojas y sistemas en Google Sheets, eso le permitía ver al momento y desde sus celulares como estaba cada consulta, ahora literalmente las 3 consultas medicas estaban gestionadas en la nube de google, el sistema funcionaba con niveles de permisos, validación de parámetros de ingreso, macros y programación en Apps Script.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Print3x",
+      "position": "Fundador, vendedor",
+      "url": "https://www.print3x.cl/",
+      "startDate": "2013-04-01",
+      "endDate": "2021-12-20",
+      "summary": "Solo por curiosidad empezamos a desarrollar impresoras 3D adhiriéndonos al movimiento RepRap, hicimos mejoras a las impresoras, las compartimos con la comunidad y lanzamos nuestra compañía Print3x, año a año fuimos mejorando la tecnología y sacando nuevos diseños de impresoras 3D, ganamos premios, levantamos dinero y dimos hartas charlas, vendimos a la gran mayoría de universidades de Chile y a clientes particulares. No supimos enfrentarnos a las marcas chinas, las cuales eran más baratas y año a año mejoraban la calidad de sus impresoras. Su producción a escala nos sacó del mercado. Después pasamos completamente a la venta de filamentos, pero el hecho de que todos los filamentos fueran compatibles con todas las impresoras generó una guerra de precios que no pudimos seguir. Al final el mercado gano, hay mejores impresoras, mejores filamentos a un muy bajo coste. No lo ví en su momento, pero ahora lo aprendí.",
       "highlights": [
         "Started the company"
       ]
@@ -77,18 +99,56 @@
       "Awarded 'Volunteer of the Month'"
     ]
   }],
-  "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
+  "education": [
+      {
+      "institution": "Educación Online",
+      "url": "https://platzi.com/p/SukuShaing/",
+      "area": "Platzi, Midudev, Fernando Herrera, y cientos de youtubers ",
+      "studyType": "Summer Program",
+      "startDate": "2021-06-05",
+      "endDate": null,
+      "score": "1er Lugar",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    },
+      {
+      "institution": "Waterloo University",
+      "url": "https://uwaterloo.ca/",
+      "area": "Summer Entrepreneurship Program",
+      "studyType": "Summer Program",
+      "startDate": "2018-06-05",
+      "endDate": "2018-07-15",
+      "score": "1er Lugar",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    },
+      {
+      "institution": "Stanford University",
+      "url": "https://www.stanford.edu/",
+      "area": "Summer BootCamp Five Disciplines of Innovation",
+      "studyType": "Summer Program",
+      "startDate": "2016-02-01",
+      "endDate": "2016-03-05",
+      "score": "7.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    },
+    {
+      "institution": "Universidad de Santiago de Chile",
+      "url": "https://usach.cl/",
+      "area": "Ingeniero Químico",
+      "studyType": "Licenciado",
+      "startDate": "2011-03-05",
+      "endDate": "2020-01-12",
+      "score": "7.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }
+  ],
   "awards": [{
     "title": "Award",
     "date": "2014-11-01",
@@ -145,6 +205,13 @@
       ]
     },
     {
+      "name": "Astro",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
       "name": "Node",
       "level": "Avanzado",
       "keywords": [
@@ -173,15 +240,29 @@
       ]
     },
     {
-      "name": "Next.js",
+      "name": "React",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
       ]
     },
     {
-      "name": "React",
+      "name": "React Native con Expo",
       "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Figma",
+      "level": "Básico",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "python",
+      "level": "Básico",
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
       ]
@@ -210,14 +291,15 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Batería al 100",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Notificación que te avisa cuando tu batería está al 100% para que desconectes y cuides tu batería",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "Cuida tu batería",
+        "Linux", "MacOS", "Windows"
       ],
-      "url": "https://mars.codes"
+      "url": "https://mars.codes",
+      "github": "https://github.com/midudev/codi.link"
     },
     {
       "name": "AdventJS",
@@ -261,15 +343,6 @@
       ],
       "url": "https://pruebastecnicas.com",
       "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
     }
   ]
 }
