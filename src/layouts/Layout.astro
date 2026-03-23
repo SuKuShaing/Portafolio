@@ -105,6 +105,14 @@ const { image, summary, url } = basics
   }
 
   @media print {
+    html {
+      letter-spacing: normal !important;
+    }
+
+    p, h2 {
+      text-wrap: auto !important;
+    }
+
     .no-print {
       display: none !important;
     }
