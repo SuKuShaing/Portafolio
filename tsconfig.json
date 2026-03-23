@@ -9,5 +9,8 @@
         "./src/*"
       ]
     }
-  }
+  },
+  "include": [
+    "./worker-configuration.d.ts"
+  ]
 }
