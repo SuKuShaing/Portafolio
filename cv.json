@@ -3,7 +3,7 @@
     "name": "Sebastián Sanhueza Tapia",
     "label": "Actualmente Frontend Developer y estudiando para ser un Full Stack Developer",
     "image": "/Seba_Portafolio.webp",
-    "email": "sebastian.snahueza.t@usach.cl",
+    "email": "sebastian.sanhueza.t@usach.cl",
     "phone": "+569 9464 0782",
     "url": "https://sanhueza.pro",
     "summary": "Durante la universidad emprendí con la fabricación de impresoras 3D, 9 años dirigiendo el equipo Print3x.cl. Después decidí estudiar programación y durante los últimos 5 años he trabajado y estudiado.",
@@ -39,7 +39,7 @@
       "url": "https://www.utem.cl/",
       "startDate": "2025-09-19",
       "endDate": "2026-02-10",
-      "summary": "Les hice todo el estudio de palabras clave para su nuevo sitio web, y trabajé en con el desarrollador para que se implementara de muy buena forma las practicas SEO para el nuevo sitio web de la Utem que será lanzado en Julio de este año 2026.",
+      "summary": "Les hice todo el estudio de palabras clave para su nuevo sitio web, y trabajé con el desarrollador para que se implementaran de muy buena forma las prácticas SEO para el nuevo sitio web de la Utem que será lanzado en julio de este año 2026.",
       "highlights": [
         "Started the company"
       ]
@@ -61,17 +61,17 @@
       "url": "https://tastyfree.cl/",
       "startDate": "2024-01-10",
       "endDate": "2024-12-14",
-      "summary": "En TastyFree migré la web de wordpress a shopify, hice mejoras al copy de los productos para que tuvieran un mejor posicionamiento SEO y además le llevaba la administración de los anuncios en Meta.",
+      "summary": "En TastyFree migré la web de WordPress a Shopify, hice mejoras al copy de los productos para que tuvieran un mejor posicionamiento SEO y además le llevaba la administración de los anuncios en Meta.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Centro Medico Arlo",
+      "name": "Centro Médico Arlo",
       "position": "Administración, Finanzas",
       "startDate": "2022-03-20",
       "endDate": "2023-12-15",
-      "summary": "Entre a este centro medico a reparar unos Excel, me quedé al mejorar el sistema de información, unificando todas sus hojas y sistemas en Google Sheets, eso le permitía ver al momento y desde sus celulares como estaba cada consulta, ahora literalmente las 3 consultas medicas estaban gestionadas en la nube de google, el sistema funcionaba con niveles de permisos, validación de parámetros de ingreso, macros y programación en Apps Script.",
+      "summary": "Entré a este centro médico a reparar unos Excel, me quedé al mejorar el sistema de información, unificando todas sus hojas y sistemas en Google Sheets, eso le permitía ver al momento y desde sus celulares como estaba cada consulta, ahora literalmente las 3 consultas médicas estaban gestionadas en la nube de Google, el sistema funcionaba con niveles de permisos, validación de parámetros de ingreso, macros y programación en Apps Script.",
       "highlights": [
         "Started the company"
       ]
@@ -82,7 +82,7 @@
       "url": "https://www.print3x.cl/",
       "startDate": "2013-04-01",
       "endDate": "2021-12-20",
-      "summary": "Solo por curiosidad empezamos a desarrollar impresoras 3D adhiriéndonos al movimiento RepRap, hicimos mejoras a las impresoras, las compartimos con la comunidad y lanzamos nuestra compañía Print3x, año a año fuimos mejorando la tecnología y sacando nuevos diseños de impresoras 3D, ganamos premios, levantamos dinero y dimos hartas charlas, vendimos a la gran mayoría de universidades de Chile y a clientes particulares. No supimos enfrentarnos a las marcas chinas, las cuales eran más baratas y año a año mejoraban la calidad de sus impresoras. Su producción a escala nos sacó del mercado. Después pasamos completamente a la venta de filamentos, pero el hecho de que todos los filamentos fueran compatibles con todas las impresoras generó una guerra de precios que no pudimos seguir. Al final el mercado gano, hay mejores impresoras, mejores filamentos a un muy bajo coste. No lo ví en su momento, pero ahora lo aprendí.",
+      "summary": "Solo por curiosidad empezamos a desarrollar impresoras 3D adhiriéndonos al movimiento RepRap, hicimos mejoras a las impresoras, las compartimos con la comunidad y lanzamos nuestra compañía Print3x, año a año fuimos mejorando la tecnología y sacando nuevos diseños de impresoras 3D, ganamos premios, levantamos dinero y dimos hartas charlas, vendimos a la gran mayoría de universidades de Chile y a clientes particulares. No supimos enfrentarnos a las marcas chinas, las cuales eran más baratas y año a año mejoraban la calidad de sus impresoras. Su producción a escala nos sacó del mercado. Después pasamos completamente a la venta de filamentos, pero el hecho de que todos los filamentos fueran compatibles con todas las impresoras generó una guerra de precios que no pudimos seguir. Al final el mercado ganó, hay mejores impresoras, mejores filamentos a un muy bajo coste. No lo vi en su momento, pero ahora lo aprendí.",
       "highlights": [
         "Started the company"
       ]
@@ -261,7 +261,7 @@
       ]
     },
     {
-      "name": "python",
+      "name": "Python",
       "level": "Básico",
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
@@ -306,7 +306,7 @@
       "isActive": true,
       "description": "Extensión de Chrome que te permite tener 5 temporizadores para aplicar time blocking a tu día a día",
       "highlights": [
-        "Extensión de Navegador", "productividad", "time blocking"
+        "Extensión de Navegador", "Productividad", "Time Blocking"
       ],
       "url": "https://chromewebstore.google.com/detail/simple-timer/fepcghiedlojkgidicokpnhifnfbmabe",
       "github": "https://github.com/SuKuShaing/Extension-Simple-Timer"
@@ -325,7 +325,7 @@
     {
       "name": "Izq-Der",
       "isActive": true,
-      "description": "De mis primeras webs, construida con html, css y js puros, para que dijera aleatoriamente una dirección",
+      "description": "De mis primeras webs, construida con HTML, CSS, y JS puros, para que dijera aleatoriamente una dirección",
       "highlights": [
         "1ra web real",
         "Sin frameworks"
@@ -336,10 +336,10 @@
     {
       "name": "Comandos de Git",
       "isActive": true,
-      "description": "Este es un repositorio donde fuí dejando mis comandos y aprendizajes de git, github, docker, comandos de linux, npm, entre otros, lo compartí y a la gente le gustó, me daban estrellas",
+      "description": "Este es un repositorio donde fui dejando mis comandos y aprendizajes de Git, GitHub, Docker, comandos de Linux, NPM, entre otros, lo compartí y a la gente le gustó, me daban estrellas",
       "highlights": [
         "Lista de comandos",
-        "git y github"
+        "Git y GitHub"
       ],
       "github": "https://github.com/SuKuShaing/ComandosDeGit"
     }
