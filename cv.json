@@ -147,6 +147,18 @@
       "courses": [
         "DB1101 - Basic SQL"
       ]
+    },
+    {
+      "institution": "INBA - Internado Nacional Barros Arana",
+      "url": "https://es.wikipedia.org/wiki/Internado_Nacional_Barros_Arana",
+      "area": "Educación Media",
+      "studyType": "Licenciado",
+      "startDate": "2007-03-05",
+      "endDate": "2010-12-12",
+      "score": "6.4",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
     }
   ],
   "awards": [{
