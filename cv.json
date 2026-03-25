@@ -231,7 +231,7 @@
       ]
     },
     {
-      "name": "MySQL",
+      "name": "PostgreSQL",
       "level": "Avanzado",
       "keywords": [
         "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
