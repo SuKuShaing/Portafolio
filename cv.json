@@ -1,359 +1,371 @@
 {
-  "basics": {
-    "name": "Sebastián Sanhueza Tapia",
-    "label": "Actualmente Frontend Developer y estudiando para ser un Full Stack Developer",
-    "image": "/Seba_Portafolio.webp",
-    "email": "sebastian.sanhueza.t@usach.cl",
-    "phone": "",
-    "url": "https://sanhueza.pro",
-    "summary": "Durante la universidad emprendí con la fabricación de impresoras 3D, 9 años dirigiendo el equipo Print3x.cl. Después decidí estudiar y durante los últimos 5 años he estado trabajando y estudiado programación.",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Santiago",
-      "countryCode": "CL",
-      "region": "Chile"
+    "basics": {
+        "name": "Sebastián Sanhueza Tapia",
+        "label": "Actualmente Frontend Developer y estudiando para ser un Full Stack Developer",
+        "image": "/Seba_Portafolio.webp",
+        "email": "sebastian.sanhueza.t@usach.cl",
+        "phone": "",
+        "url": "https://sanhueza.pro",
+        "summary": "Durante la universidad emprendí con la fabricación de impresoras 3D, 9 años dirigiendo el equipo Print3x.cl. Después decidí estudiar y durante los últimos 5 años he estado trabajando y estudiado programación.",
+        "location": {
+            "address": "",
+            "postalCode": "",
+            "city": "Santiago",
+            "countryCode": "CL",
+            "region": "Chile"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "midudev",
+                "url": "https://www.linkedin.com/in/sebastiansanhuezatapia/"
+            },
+            {
+                "network": "X",
+                "username": "SebaSanhueTapia",
+                "url": "https://x.com/SebaSanhueTapia"
+            },
+            {
+                "network": "GitHub",
+                "username": "SuKuShaing",
+                "url": "https://github.com/SuKuShaing"
+            }
+        ]
     },
-    "profiles": [
-      {
-        "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://www.linkedin.com/in/sebastiansanhuezatapia/"
-      },
-      {
-        "network": "X",
-        "username": "SebaSanhueTapia",
-        "url": "https://x.com/SebaSanhueTapia"
-      },
-      {
-        "network": "GitHub",
-        "username": "SuKuShaing",
-        "url": "https://github.com/SuKuShaing"
-      }
+    "work": [
+        {
+            "name": "Utem",
+            "position": "SEO",
+            "url": "https://www.utem.cl/",
+            "startDate": "2025-09-19",
+            "endDate": "2026-02-10",
+            "summary": "Les hice todo el estudio de palabras clave para su nuevo sitio web, y trabajé con el desarrollador para que se implementaran de muy buena forma las prácticas SEO para el nuevo sitio web de la Utem que será lanzado en julio de este año 2026.",
+            "highlights": ["Started the company"]
+        },
+        {
+            "name": "Eventos L&G",
+            "position": "Administración de anuncios en Meta",
+            "url": "https://eventoslg.cl/",
+            "startDate": "2024-06-09",
+            "endDate": "2026-02-15",
+            "summary": "Llevaba la administración de los anuncios en Meta.",
+            "highlights": ["Started the company"]
+        },
+        {
+            "name": "TastyFree",
+            "position": "Administración de anuncios en Meta y SEO",
+            "url": "https://tastyfree.cl/",
+            "startDate": "2024-01-10",
+            "endDate": "2024-12-14",
+            "summary": "En TastyFree migré la web de WordPress a Shopify, hice mejoras al copy de los productos para que tuvieran un mejor posicionamiento SEO y además le llevaba la administración de los anuncios en Meta.",
+            "highlights": ["Started the company"]
+        },
+        {
+            "name": "Centro Médico Arlo",
+            "position": "Administración, Finanzas",
+            "startDate": "2022-03-20",
+            "endDate": "2023-12-15",
+            "summary": "Entré a este centro médico a reparar unos Excel, me quedé al mejorar el sistema de información, unificando todas sus hojas y sistemas en Google Sheets, eso le permitía ver al momento y desde sus celulares como estaba cada consulta, ahora literalmente las 3 consultas médicas estaban gestionadas en la nube de Google, el sistema funcionaba con niveles de permisos, validación de parámetros de ingreso, macros y programación en Apps Script.",
+            "highlights": ["Started the company"]
+        },
+        {
+            "name": "Print3x",
+            "position": "Fundador, vendedor",
+            "url": "https://www.print3x.cl/",
+            "startDate": "2013-04-01",
+            "endDate": "2021-12-20",
+            "summary": "Solo por curiosidad empezamos a desarrollar impresoras 3D adhiriéndonos al movimiento RepRap, hicimos mejoras a las impresoras, las compartimos con la comunidad y lanzamos nuestra compañía Print3x, año a año fuimos mejorando la tecnología y sacando nuevos diseños de impresoras 3D, ganamos premios, levantamos dinero y dimos hartas charlas, vendimos a la gran mayoría de universidades de Chile y a clientes particulares. No supimos enfrentarnos a las marcas chinas, las cuales eran más baratas y año a año mejoraban la calidad de sus impresoras. Su producción a escala nos sacó del mercado. Después pasamos completamente a la venta de filamentos, pero el hecho de que todos los filamentos fueran compatibles con todas las impresoras generó una guerra de precios que no pudimos seguir. Al final el mercado ganó, hay mejores impresoras, mejores filamentos a un muy bajo coste. No lo vi en su momento, pero ahora lo aprendí.",
+            "highlights": ["Started the company"]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Organization",
+            "position": "Volunteer",
+            "url": "https://organization.com/",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "summary": "Description…",
+            "highlights": ["Awarded 'Volunteer of the Month'"]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Educación Online",
+            "url": "https://platzi.com/p/SukuShaing/",
+            "area": "Platzi, Midudev, Fernando Herrera, y cientos de youtubers ",
+            "studyType": "Summer Program",
+            "startDate": "2021-06-05",
+            "endDate": null,
+            "score": "1er Lugar",
+            "courses": ["DB1101 - Basic SQL"]
+        },
+        {
+            "institution": "Waterloo University",
+            "url": "https://uwaterloo.ca/",
+            "area": "Summer Entrepreneurship Program",
+            "studyType": "Summer Program",
+            "startDate": "2018-06-05",
+            "endDate": "2018-07-15",
+            "score": "1er Lugar",
+            "courses": ["DB1101 - Basic SQL"]
+        },
+        {
+            "institution": "Stanford University",
+            "url": "https://www.stanford.edu/",
+            "area": "Summer BootCamp Five Disciplines of Innovation",
+            "studyType": "Summer Program",
+            "startDate": "2016-02-01",
+            "endDate": "2016-03-05",
+            "score": "7.0",
+            "courses": ["DB1101 - Basic SQL"]
+        },
+        {
+            "institution": "Universidad de Santiago de Chile",
+            "url": "https://usach.cl/",
+            "area": "Ingeniero Químico",
+            "studyType": "Licenciado",
+            "startDate": "2011-03-05",
+            "endDate": "2020-01-12",
+            "score": "7.0",
+            "courses": ["DB1101 - Basic SQL"]
+        },
+        {
+            "institution": "INBA - Internado Nacional Barros Arana",
+            "url": "https://es.wikipedia.org/wiki/Internado_Nacional_Barros_Arana",
+            "area": "Educación Media",
+            "studyType": "Licenciado",
+            "startDate": "2007-03-05",
+            "endDate": "2010-12-12",
+            "score": "6.4",
+            "courses": ["DB1101 - Basic SQL"]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+    "certificates": [
+        {
+            "name": "Certificate",
+            "date": "2021-11-07",
+            "issuer": "Company",
+            "url": "https://certificate.com"
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "url": "https://publication.com",
+            "summary": "Description…"
+        }
+    ],
+    "skills": [
+        {
+            "name": "HTML",
+            "level": "Master",
+            "keywords": ["Desarrollo Web", "Frontend"]
+        },
+        {
+            "name": "CSS",
+            "level": "Master",
+            "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+        },
+        {
+            "name": "JavaScript",
+            "level": "Master",
+            "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+        },
+        {
+            "name": "Tailwind",
+            "level": "Avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "CSS Framework",
+                "Diseño Responsive"
+            ]
+        },
+        {
+            "name": "TypeScript",
+            "level": "Avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Backend",
+                "JavaScript Superset"
+            ]
+        },
+        {
+            "name": "Astro",
+            "level": "Avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Backend",
+                "JavaScript Superset"
+            ]
+        },
+        {
+            "name": "Node",
+            "level": "Avanzado",
+            "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+        },
+        {
+            "name": "PostgreSQL",
+            "level": "Avanzado",
+            "keywords": [
+                "Bases de Datos",
+                "SQL",
+                "Almacenamiento de Datos",
+                "Backend"
+            ]
+        },
+        {
+            "name": "Git",
+            "level": "Avanzado",
+            "keywords": [
+                "Control de Versiones",
+                "Colaboración",
+                "Código Fuente"
+            ]
+        },
+        {
+            "name": "GitHub",
+            "level": "Avanzado",
+            "keywords": [
+                "Control de Versiones",
+                "Colaboración",
+                "Código Fuente",
+                "Git"
+            ]
+        },
+        {
+            "name": "React",
+            "level": "Avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "JavaScript Library",
+                "UI"
+            ]
+        },
+        {
+            "name": "React Native con Expo",
+            "level": "Avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "JavaScript Library",
+                "UI"
+            ]
+        },
+        {
+            "name": "Figma",
+            "level": "Básico",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "JavaScript Library",
+                "UI"
+            ]
+        },
+        {
+            "name": "Python",
+            "level": "Básico",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "JavaScript Library",
+                "UI"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Advanced"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Wildlife",
+            "keywords": ["Ferrets", "Unicorns"]
+        }
+    ],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Reference…"
+        }
+    ],
+    "projects": [
+        {
+            "name": "UltimaType",
+            "isActive": true,
+            "description": "Plataforma para competir en Mecanografía en tiempo real y multijugador",
+            "highlights": [
+                "Mecnografía",
+                "Real Time",
+                "Multijugador",
+                "Plataforma",
+                "WebSockets"
+            ],
+            "url": "https://ultimatype.xyz/",
+            "github": "https://github.com/SuKuShaing/UltimaType.xyz"
+        },
+        {
+            "name": "Batería al 100",
+            "isActive": true,
+            "description": "Notificación que te avisa cuando tu batería está al 100% para que desconectes y cuides tu batería",
+            "highlights": ["Cuida tu batería", "Linux", "MacOS", "Windows"],
+            "url": "https://sukushaing.github.io/Bateria-al-100/",
+            "github": "https://github.com/SuKuShaing/Bateria-al-100"
+        },
+        {
+            "name": "Simple Timer",
+            "isActive": true,
+            "description": "Extensión de Chrome que te permite tener 5 temporizadores para aplicar time blocking a tu día a día",
+            "highlights": [
+                "Extensión de Navegador",
+                "Productividad",
+                "Time Blocking"
+            ],
+            "url": "https://chromewebstore.google.com/detail/simple-timer/fepcghiedlojkgidicokpnhifnfbmabe",
+            "github": "https://github.com/SuKuShaing/Extension-Simple-Timer"
+        },
+        {
+            "name": "Lightboard",
+            "isActive": true,
+            "description": "Página para la venta de Lightboard, construida en Astro",
+            "highlights": ["Astro", "Lightboard"],
+            "url": "https://lightboard.cl/",
+            "github": "https://github.com/SuKuShaing/repo-lightboard"
+        },
+        {
+            "name": "Izq-Der",
+            "isActive": true,
+            "description": "De mis primeras webs, construida con HTML, CSS, y JS puros, para que dijera aleatoriamente una dirección",
+            "highlights": ["1ra web real", "Sin frameworks"],
+            "url": "https://sukushaing.github.io/Izq-Der/",
+            "github": "https://github.com/SuKuShaing/Izq-Der"
+        },
+        {
+            "name": "Comandos de Git",
+            "isActive": true,
+            "description": "Este es un repositorio donde fui dejando mis comandos y aprendizajes de Git, GitHub, Docker, comandos de Linux, NPM, entre otros, lo compartí y a la gente le gustó, me daban estrellas",
+            "highlights": ["Lista de comandos", "Git y GitHub"],
+            "github": "https://github.com/SuKuShaing/ComandosDeGit"
+        }
     ]
-  },
-  "work": [
-    {
-      "name": "Utem",
-      "position": "SEO",
-      "url": "https://www.utem.cl/",
-      "startDate": "2025-09-19",
-      "endDate": "2026-02-10",
-      "summary": "Les hice todo el estudio de palabras clave para su nuevo sitio web, y trabajé con el desarrollador para que se implementaran de muy buena forma las prácticas SEO para el nuevo sitio web de la Utem que será lanzado en julio de este año 2026.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Eventos L&G",
-      "position": "Administración de anuncios en Meta",
-      "url": "https://eventoslg.cl/",
-      "startDate": "2024-06-09",
-      "endDate": "2026-02-15",
-      "summary": "Llevaba la administración de los anuncios en Meta.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "TastyFree",
-      "position": "Administración de anuncios en Meta y SEO",
-      "url": "https://tastyfree.cl/",
-      "startDate": "2024-01-10",
-      "endDate": "2024-12-14",
-      "summary": "En TastyFree migré la web de WordPress a Shopify, hice mejoras al copy de los productos para que tuvieran un mejor posicionamiento SEO y además le llevaba la administración de los anuncios en Meta.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Centro Médico Arlo",
-      "position": "Administración, Finanzas",
-      "startDate": "2022-03-20",
-      "endDate": "2023-12-15",
-      "summary": "Entré a este centro médico a reparar unos Excel, me quedé al mejorar el sistema de información, unificando todas sus hojas y sistemas en Google Sheets, eso le permitía ver al momento y desde sus celulares como estaba cada consulta, ahora literalmente las 3 consultas médicas estaban gestionadas en la nube de Google, el sistema funcionaba con niveles de permisos, validación de parámetros de ingreso, macros y programación en Apps Script.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Print3x",
-      "position": "Fundador, vendedor",
-      "url": "https://www.print3x.cl/",
-      "startDate": "2013-04-01",
-      "endDate": "2021-12-20",
-      "summary": "Solo por curiosidad empezamos a desarrollar impresoras 3D adhiriéndonos al movimiento RepRap, hicimos mejoras a las impresoras, las compartimos con la comunidad y lanzamos nuestra compañía Print3x, año a año fuimos mejorando la tecnología y sacando nuevos diseños de impresoras 3D, ganamos premios, levantamos dinero y dimos hartas charlas, vendimos a la gran mayoría de universidades de Chile y a clientes particulares. No supimos enfrentarnos a las marcas chinas, las cuales eran más baratas y año a año mejoraban la calidad de sus impresoras. Su producción a escala nos sacó del mercado. Después pasamos completamente a la venta de filamentos, pero el hecho de que todos los filamentos fueran compatibles con todas las impresoras generó una guerra de precios que no pudimos seguir. Al final el mercado ganó, hay mejores impresoras, mejores filamentos a un muy bajo coste. No lo vi en su momento, pero ahora lo aprendí.",
-      "highlights": [
-        "Started the company"
-      ]
-    }
-  ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [
-      {
-      "institution": "Educación Online",
-      "url": "https://platzi.com/p/SukuShaing/",
-      "area": "Platzi, Midudev, Fernando Herrera, y cientos de youtubers ",
-      "studyType": "Summer Program",
-      "startDate": "2021-06-05",
-      "endDate": null,
-      "score": "1er Lugar",
-      "courses": [
-        "DB1101 - Basic SQL"
-      ]
-    },
-      {
-      "institution": "Waterloo University",
-      "url": "https://uwaterloo.ca/",
-      "area": "Summer Entrepreneurship Program",
-      "studyType": "Summer Program",
-      "startDate": "2018-06-05",
-      "endDate": "2018-07-15",
-      "score": "1er Lugar",
-      "courses": [
-        "DB1101 - Basic SQL"
-      ]
-    },
-      {
-      "institution": "Stanford University",
-      "url": "https://www.stanford.edu/",
-      "area": "Summer BootCamp Five Disciplines of Innovation",
-      "studyType": "Summer Program",
-      "startDate": "2016-02-01",
-      "endDate": "2016-03-05",
-      "score": "7.0",
-      "courses": [
-        "DB1101 - Basic SQL"
-      ]
-    },
-    {
-      "institution": "Universidad de Santiago de Chile",
-      "url": "https://usach.cl/",
-      "area": "Ingeniero Químico",
-      "studyType": "Licenciado",
-      "startDate": "2011-03-05",
-      "endDate": "2020-01-12",
-      "score": "7.0",
-      "courses": [
-        "DB1101 - Basic SQL"
-      ]
-    },
-    {
-      "institution": "INBA - Internado Nacional Barros Arana",
-      "url": "https://es.wikipedia.org/wiki/Internado_Nacional_Barros_Arana",
-      "area": "Educación Media",
-      "studyType": "Licenciado",
-      "startDate": "2007-03-05",
-      "endDate": "2010-12-12",
-      "score": "6.4",
-      "courses": [
-        "DB1101 - Basic SQL"
-      ]
-    }
-  ],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
-  "skills": [
-    {
-      "name": "HTML",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend"
-      ]
-    },
-    {
-      "name": "CSS",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Astro",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-      ]
-    },
-    {
-      "name": "PostgreSQL",
-      "level": "Avanzado",
-      "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
-    },
-    {
-      "name": "React Native con Expo",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
-    },
-    {
-      "name": "Figma",
-      "level": "Básico",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
-    },
-    {
-      "name": "Python",
-      "level": "Básico",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "Spanish",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Advanced"
-    }
-  ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
-  "projects": [
-    {
-      "name": "Batería al 100",
-      "isActive": true,
-      "description": "Notificación que te avisa cuando tu batería está al 100% para que desconectes y cuides tu batería",
-      "highlights": [
-        "Cuida tu batería",
-        "Linux", "MacOS", "Windows"
-      ],
-      "url": "https://sukushaing.github.io/Bateria-al-100/",
-      "github": "https://github.com/SuKuShaing/Bateria-al-100"
-    },
-    {
-      "name": "Simple Timer",
-      "isActive": true,
-      "description": "Extensión de Chrome que te permite tener 5 temporizadores para aplicar time blocking a tu día a día",
-      "highlights": [
-        "Extensión de Navegador", "Productividad", "Time Blocking"
-      ],
-      "url": "https://chromewebstore.google.com/detail/simple-timer/fepcghiedlojkgidicokpnhifnfbmabe",
-      "github": "https://github.com/SuKuShaing/Extension-Simple-Timer"
-    },
-    {
-      "name": "Lightboard",
-      "isActive": true,
-      "description": "Página para la venta de Lightboard, construida en Astro",
-      "highlights": [
-        "Astro",
-        "Lightboard"
-      ],
-      "url": "https://lightboard.cl/",
-      "github": "https://github.com/SuKuShaing/repo-lightboard"
-    },
-    {
-      "name": "Izq-Der",
-      "isActive": true,
-      "description": "De mis primeras webs, construida con HTML, CSS, y JS puros, para que dijera aleatoriamente una dirección",
-      "highlights": [
-        "1ra web real",
-        "Sin frameworks"
-      ],
-      "url": "https://sukushaing.github.io/Izq-Der/",
-      "github": "https://github.com/SuKuShaing/Izq-Der"
-    },
-    {
-      "name": "Comandos de Git",
-      "isActive": true,
-      "description": "Este es un repositorio donde fui dejando mis comandos y aprendizajes de Git, GitHub, Docker, comandos de Linux, NPM, entre otros, lo compartí y a la gente le gustó, me daban estrellas",
-      "highlights": [
-        "Lista de comandos",
-        "Git y GitHub"
-      ],
-      "github": "https://github.com/SuKuShaing/ComandosDeGit"
-    }
-  ]
 }
